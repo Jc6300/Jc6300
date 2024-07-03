@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/jcthedev" target="blank"><img src="https://img.shields.io/twitter/follow/jcthedev?logo=twitter&style=for-the-badge" alt="jcthedev" /></a> </p>
 
-- 🔭 I’m currently working on **A mock store website**
+- 🔭 I’m currently working on **diving deeper into React with Typescript**
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **joshc6300@gmail.com**
 
-- ⚡ Fun fact **I love taco's and hot wings**
+- ⚡ Fun fact **I love tacos and hot wings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
