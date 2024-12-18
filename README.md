@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a website for a small church
 
-- 🌱 I’m currently learning Typescript, System Design, and AWS
+- 🌱 I’m currently learning Typescript and System Design
 
 - 📫 How to reach me **joshc6300@gmail.com**
 
