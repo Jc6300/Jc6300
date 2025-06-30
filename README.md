@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/jcthedev" target="blank"><img src="https://img.shields.io/twitter/follow/jcthedev?logo=twitter&style=for-the-badge" alt="jcthedev" /></a> </p>
 
-- 🔭 I’m currently working on a website for a small church
+- 🔭 I’m currently working on improving as a Full-Stack Dev
 
-- 🌱 I’m currently learning Typescript and System Design
+- 🌱 I’m currently learning TypeScript, System Design, and SQL
 
 - 📫 How to reach me **joshc6300@gmail.com**
 
