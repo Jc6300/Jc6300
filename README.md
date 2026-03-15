@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a website for a church
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning DevOps
 
 - 📫 How to reach me **joshc6300@gmail.com**
 
